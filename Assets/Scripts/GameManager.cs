@@ -33,6 +33,7 @@ public class GameManager : MonoBehaviour
     void Start()
     {
         controller = GameObject.Find("Player").GetComponent<PlayerController>();
+        BackToMenu();
     }
 
     // Update is called once per frame
