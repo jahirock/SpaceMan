@@ -9,9 +9,9 @@ Hay pociones de vida y mana. El mana le da super-salto al personaje.
 </p>
 
 <p align="center">
-  <img src="https://github.com/jahirock/SpaceMan/blob/main/images/SpaceManInGame.png?raw=true" alt="Main Menu"/>
+  <img src="https://github.com/jahirock/SpaceMan/blob/main/images/SpaceManInGame.png?raw=true" alt="In game"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/jahirock/SpaceMan/blob/main/images/SpaceManGameOver.png?raw=true" alt="Main Menu"/>
+  <img src="https://github.com/jahirock/SpaceMan/blob/main/images/SpaceManGameOver.png?raw=true" alt="Game over"/>
 </p>
